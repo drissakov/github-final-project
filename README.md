@@ -25,8 +25,8 @@ You need Bash and `awk`, available in typical Linux, macOS, and Git Bash environ
 1. Clone the repository and open its directory:
 
    ```bash
-   git clone https://github.com/drissakov/simple_calculator.git
-   cd simple_calculator
+   git clone https://github.com/drissakov/github-final-project.git
+   cd github-final-project
    ```
 
 2. Run the script:

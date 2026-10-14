@@ -4,7 +4,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 ## Report an issue
 
-Check the existing [issues](https://github.com/drissakov/simple_calculator/issues) before opening a new one. For a bug report, include the steps to reproduce the problem, the expected result, the actual result, and your Bash version. Do not include passwords or other private information.
+Check the existing [issues](https://github.com/drissakov/github-final-project/issues) before opening a new one. For a bug report, include the steps to reproduce the problem, the expected result, the actual result, and your Bash version. Do not include passwords or other private information.
 
 ## Submit a change
 
